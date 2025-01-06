@@ -1,1 +1,4 @@
 user added to txt.
+process the data
+
+create an avatar for user
