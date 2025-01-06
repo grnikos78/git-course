@@ -4,6 +4,4 @@ process the data
 create an avatar for user
 
 added the user inside
-
-
 change 1
